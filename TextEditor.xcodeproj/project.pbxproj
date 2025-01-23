@@ -11,6 +11,12 @@
 		D00C604B2A92620D0037694B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00C604A2A92620D0037694B /* ViewController.swift */; };
 		D00C604D2A9262100037694B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D00C604C2A9262100037694B /* Assets.xcassets */; };
 		D00C60502A9262100037694B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D00C604E2A9262100037694B /* Main.storyboard */; };
+		D00C605A2A9280F20037694B /* Token.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00C60572A9280F20037694B /* Token.swift */; };
+		D00C605B2A9280F20037694B /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00C60582A9280F20037694B /* Extensions.swift */; };
+		D0B0CC4C2A98A001000C43C3 /* LineNumberRulerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B0CC4B2A98A001000C43C3 /* LineNumberRulerView.swift */; };
+		D0BD96882A9636FC0096265F /* AQuest.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BD96862A9636FB0096265F /* AQuest.swift */; };
+		D0BD96892A9636FC0096265F /* TheNewWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BD96872A9636FC0096265F /* TheNewWorld.swift */; };
+		D0BD968B2A9637100096265F /* Stage5.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0BD968A2A9637100096265F /* Stage5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +26,12 @@
 		D00C604C2A9262100037694B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D00C604F2A9262100037694B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D00C60512A9262100037694B /* TextEditor.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TextEditor.entitlements; sourceTree = "<group>"; };
+		D00C60572A9280F20037694B /* Token.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Token.swift; sourceTree = "<group>"; };
+		D00C60582A9280F20037694B /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		D0B0CC4B2A98A001000C43C3 /* LineNumberRulerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LineNumberRulerView.swift; sourceTree = "<group>"; };
+		D0BD96862A9636FB0096265F /* AQuest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AQuest.swift; sourceTree = "<group>"; };
+		D0BD96872A9636FC0096265F /* TheNewWorld.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TheNewWorld.swift; sourceTree = "<group>"; };
+		D0BD968A2A9637100096265F /* Stage5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stage5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,9 +66,15 @@
 			children = (
 				D00C60482A92620D0037694B /* AppDelegate.swift */,
 				D00C604A2A92620D0037694B /* ViewController.swift */,
+				D00C60582A9280F20037694B /* Extensions.swift */,
+				D0BD96862A9636FB0096265F /* AQuest.swift */,
+				D0BD96872A9636FC0096265F /* TheNewWorld.swift */,
+				D0BD968A2A9637100096265F /* Stage5.swift */,
+				D00C60572A9280F20037694B /* Token.swift */,
 				D00C604C2A9262100037694B /* Assets.xcassets */,
 				D00C604E2A9262100037694B /* Main.storyboard */,
 				D00C60512A9262100037694B /* TextEditor.entitlements */,
+				D0B0CC4B2A98A001000C43C3 /* LineNumberRulerView.swift */,
 			);
 			path = TextEditor;
 			sourceTree = "<group>";
@@ -131,8 +149,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D00C605A2A9280F20037694B /* Token.swift in Sources */,
+				D0BD96882A9636FC0096265F /* AQuest.swift in Sources */,
+				D0B0CC4C2A98A001000C43C3 /* LineNumberRulerView.swift in Sources */,
 				D00C604B2A92620D0037694B /* ViewController.swift in Sources */,
 				D00C60492A92620D0037694B /* AppDelegate.swift in Sources */,
+				D00C605B2A9280F20037694B /* Extensions.swift in Sources */,
+				D0BD96892A9636FC0096265F /* TheNewWorld.swift in Sources */,
+				D0BD968B2A9637100096265F /* Stage5.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E1C23A77-ABD5-4A23-A7FB-A81B90480EC2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48B31150-6DAA-4AD1-94F6-C5D10266E1E7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextEditor/TheNewWorld.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "tokenize(code:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "48B31150-6DAA-4AD1-94F6-C5D10266E1E7 - 9ba93363025f59e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextEditor.TheNewWorld.tokenize(code: Swift.String) -&gt; (Swift.Array&lt;__C._NSRange&gt;, Swift.Array&lt;TextEditor.Token&gt;)"
+                  moduleName = "TextEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertarican/Developer/TextEditor/TextEditor/TheNewWorld.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "12578">
+               </Location>
+               <Location
+                  uuid = "48B31150-6DAA-4AD1-94F6-C5D10266E1E7 - 9ba93363025f59e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextEditor.TheNewWorld.tokenize(code: Swift.String) -&gt; (Swift.Array&lt;__C._NSRange&gt;, Swift.Array&lt;TextEditor.Token&gt;)"
+                  moduleName = "TextEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertarican/Developer/TextEditor/TextEditor/TheNewWorld.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "12596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9090B0CB-A4E0-431F-868D-66075324FBEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextEditor/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9090B0CB-A4E0-431F-868D-66075324FBEA - b0ef9d41a4a81f46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextEditor.ViewController.keyUp(with: __C.NSEvent) -&gt; ()"
+                  moduleName = "TextEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertarican/Developer/TextEditor/TextEditor/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "9090B0CB-A4E0-431F-868D-66075324FBEA - b0ef9d41a4a81f46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextEditor.ViewController.keyUp(with: __C.NSEvent) -&gt; ()"
+                  moduleName = "TextEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertarican/Developer/TextEditor/TextEditor/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "65">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5057F3C-6121-4FBB-A38A-54E58215A7B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextEditor/Stage5.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "applyLookForwardRules(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C5057F3C-6121-4FBB-A38A-54E58215A7B7 - 88208195c3c84507"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextEditor.Stage5.applyLookForwardRules(inout TextEditor.Token) -&gt; ()"
+                  moduleName = "TextEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertarican/Developer/TextEditor/TextEditor/Stage5.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "6742">
+               </Location>
+               <Location
+                  uuid = "C5057F3C-6121-4FBB-A38A-54E58215A7B7 - 88208195c3c84507"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextEditor.Stage5.applyLookForwardRules(inout TextEditor.Token) -&gt; ()"
+                  moduleName = "TextEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertarican/Developer/TextEditor/TextEditor/Stage5.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "232"
+                  endingLineNumber = "232"
+                  offsetFromSymbolStart = "6513">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCB86443-5E56-421E-A683-0118FD0B78D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextEditor/Stage5.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "229"
+            endingLineNumber = "229"
+            landmarkName = "applyLookForwardRules(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CCB86443-5E56-421E-A683-0118FD0B78D4 - 88208195c3c846a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextEditor.Stage5.applyLookForwardRules(inout TextEditor.Token) -&gt; ()"
+                  moduleName = "TextEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertarican/Developer/TextEditor/TextEditor/Stage5.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "6477">
+               </Location>
+               <Location
+                  uuid = "CCB86443-5E56-421E-A683-0118FD0B78D4 - 88208195c3c846a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextEditor.Stage5.applyLookForwardRules(inout TextEditor.Token) -&gt; ()"
+                  moduleName = "TextEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertarican/Developer/TextEditor/TextEditor/Stage5.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "6248">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BDE4160-6152-4C8F-BCCC-97EB38CBF953"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextEditor/Stage5.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
+            landmarkName = "applyLookForwardRules(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1BDE4160-6152-4C8F-BCCC-97EB38CBF953 - 88208195c3c84583"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextEditor.Stage5.applyLookForwardRules(inout TextEditor.Token) -&gt; ()"
+                  moduleName = "TextEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertarican/Developer/TextEditor/TextEditor/Stage5.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "7114">
+               </Location>
+               <Location
+                  uuid = "1BDE4160-6152-4C8F-BCCC-97EB38CBF953 - 88208195c3c84583"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextEditor.Stage5.applyLookForwardRules(inout TextEditor.Token) -&gt; ()"
+                  moduleName = "TextEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertarican/Developer/TextEditor/TextEditor/Stage5.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "236"
+                  endingLineNumber = "236"
+                  offsetFromSymbolStart = "6885">
+               </Location>
+               <Location
+                  uuid = "1BDE4160-6152-4C8F-BCCC-97EB38CBF953 - 88208195c3c845a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TextEditor.Stage5.applyLookForwardRules(inout TextEditor.Token) -&gt; ()"
+                  moduleName = "TextEditor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mertarican/Developer/TextEditor/TextEditor/Stage5.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "237"
+                  endingLineNumber = "237"
+                  offsetFromSymbolStart = "6897">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "899BB9CD-3815-48AB-87ED-CC3C575AF3A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextEditor/Stage5.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "applyLookForwardRules(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A252E51-CDD3-4E99-B7EA-A75D28D65EDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TextEditor/Stage5.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "applyLookForwardRules(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
